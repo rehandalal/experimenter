@@ -50,9 +50,8 @@ django-filter==2.3.0 \
 django-widget-tweaks==1.4.8 \
     --hash=sha256:f80bff4a8a59b278bb277a405a76a8b9a884e4bae7a6c70e78a39c626cd1c836 \
     --hash=sha256:9f91ca4217199b7671971d3c1f323a2bec71a0c27dec6260b3c006fa541bc489
-djangorestframework==3.11.0 \
-    --hash=sha256:05809fc66e1c997fd9a32ea5730d9f4ba28b109b9da71fccfa5ff241201fd0a4 \
-    --hash=sha256:e782087823c47a26826ee5b6fa0c542968219263fb3976ec3c31edab23a4001f
+djangorestframework==3.12.2 \
+    --hash=sha256:0209bafcb7b5010fdfec784034f059d512256424de2a0f084cb82b096d6dd6a7
 dockerflow==2020.6.0 \
     --hash=sha256:0336428bc7baba97b96eefcb56edd6dc244aacabef0bd48e1d3121f79297ebe4 \
     --hash=sha256:39af796e973858a8d37a0264fd6843f41b16851a5eab2ed4e1f5872954dcc4c4
